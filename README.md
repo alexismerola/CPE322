@@ -3,19 +3,22 @@
 ### Written By Alexis Merola
 
 **Stevens Insitute of Technology**
-*italicized text*
+*B.E. in Computer Engineering*
 
-> I am looking forward to taking this class!
+> Some Sports and Clubs I'm Involved in on Campus Include:
 
-1. First item
-2. Second item
-3. Third item
-   
-- First item
-- Second item
-- Third item
+1. Track and Field Team
+2. Alpha Phi Omega
+3. Tau Beta Pi
+4. American Nuclear Society
+5. Society of Women Engineers
+
+> In my free time I enjoy:
+- Baking
+- Watching movies
+- Spending time with friends and family
   
 `code`
 ---
-[Alexis's Github](https://www.example.com)
+[Alexis's GitHub](https://www.example.com)
 ![alt text](image.jpg)
