@@ -13,12 +13,11 @@
 4. American Nuclear Society
 5. Society of Women Engineers
 
-> In my free time I enjoy:
+`In my free time I enjoy:`
 - Baking
 - Watching movies
-- Spending time with friends and family
-  
-`code`
+- Spending time with my pet tortoise (shown in the image below)
+
 ---
 [Alexis's GitHub]([https://www.example.com](https://github.com/alexismerola/CPE322.git))
 ![alt text](IMG_5890.jpg)
