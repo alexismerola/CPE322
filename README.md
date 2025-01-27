@@ -20,5 +20,5 @@
   
 `code`
 ---
-[Alexis's GitHub](https://www.example.com)
+[Alexis's GitHub]([https://www.example.com](https://github.com/alexismerola/CPE322.git))
 ![alt text](IMG_5890.jpg)
