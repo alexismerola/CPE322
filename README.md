@@ -19,5 +19,5 @@
 - Spending time with my pet tortoise (shown in the image below)
 
 ---
-[Alexis's GitHub]([https://www.example.com](https://github.com/alexismerola/CPE322.git))
+[Alexis's GitHub](https://github.com/alexismerola/CPE322.git)
 ![alt text](IMG_5890.jpg)
