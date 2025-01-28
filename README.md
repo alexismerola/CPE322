@@ -3,7 +3,7 @@
 ### Written By Alexis Merola
 
 **Stevens Insitute of Technology**
-*B.E. in Computer Engineering*
+*(B.E. in Computer Engineering)*
 
 > Some Sports and Clubs I'm Involved in on Campus Include:
 
