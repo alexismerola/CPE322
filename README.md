@@ -29,4 +29,3 @@
 ![alt text](half_adder_example.jpg)
 ### D Flip-Flop Example
 ![alt text](D_Flip_Flop_Example.jpg)
-### 4-to-1 Multiplexer Example
