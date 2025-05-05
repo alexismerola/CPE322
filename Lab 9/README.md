@@ -17,4 +17,4 @@
 ### Run PlantUML to generate intrusiondetection.png
 #### 
 ![alt text](py-intrusiondetection.jpg)
-![alt text](intrustiondetection.jpg)
+![alt text](intrusiondetection.jpg)
