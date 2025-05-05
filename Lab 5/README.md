@@ -1,5 +1,5 @@
 # Lab 5 - Paho-MQTT
-#### In this lab, I explored how to implement MQTT-based messaging in Python using the Paho-MQTT library. MQTT (Message Queuing Telemetry Transport) is a lightweight, publish-subscribe communication protocol commonly used in IoT systems for sending data between devices. By using simple Python scripts, I set up both a publisher to transmit CPU usage data and a subscriber to receive and display that information in real time. This lab demonstrated how MQTT enables efficient and responsive communication between processes, simulating device-to-device messaging in a real-world IoT environment.
+#### This lab focused on setting up MQTT-based communication in Python using the Paho-MQTT library. MQTT, short for Message Queuing Telemetry Transport, is a lightweight protocol designed for efficient message exchange — a common need in Internet of Things (IoT) applications. In this exercise, I used two Python scripts: one to act as a publisher that sends real-time CPU usage data, and another to function as a subscriber that receives and displays that data. By successfully simulating this publish/subscribe model, the lab highlighted how MQTT can facilitate reliable, low-overhead messaging between devices or services in a distributed system.
 
 
 ### Install Paho-MQTT
@@ -7,7 +7,7 @@
 ![alt text](Paho-MQTT-install.jpg)
 
 ### Update the repository with git pull and change directory to Lesson 5
-#### After the library was installed, the repository was updated using git pull to ensure the latest versions of the lab files were available. Once updated, I navigated into the Lesson 5 directory where the MQTT-related scripts are located.
+#### The repository containing the necessary Python scripts was cloned using the git clone command. This provided access to all lesson folders, including the files for Lab 5. After cloning, I navigated to the Lesson 5 directory to begin running the MQTT scripts.
 ![alt text](change_directory.jpg)
 
 ### python3 subcpu.py
