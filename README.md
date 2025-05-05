@@ -21,3 +21,8 @@
 ---
 [Alexis's GitHub](https://github.com/alexismerola/CPE322.git)
 ![alt text](IMG_5890.jpg)
+
+
+---
+## Lab 1 - GHDL and GTKWave
+### Half Adder Example
