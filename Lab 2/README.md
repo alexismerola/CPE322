@@ -1,5 +1,5 @@
 # Lab 2 - Command Line
-#### 
+#### This lab introduces essential command-line operations used in Linux-based systems. Students practice navigating directories, managing files, inspecting system information, and using basic network tools. These skills build a foundation for interacting with IoT devices, remote systems, and embedded development environments.
 
 ### hostname
 #### Shows the name of your computer or device on the network.
