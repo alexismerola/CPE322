@@ -26,7 +26,7 @@
 ---
 ## Lab 1 - GHDL and GTKWave
 ### Half Adder Example
-
+![alt text](half_adder_example.jpg)
 ### D Flip-Flop Example
 
 ### 4-to-1 Multiplexer Example
